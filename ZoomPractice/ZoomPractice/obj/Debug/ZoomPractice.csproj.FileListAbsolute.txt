@@ -1,0 +1,12 @@
+D:\ZoomPractice\ZoomPractice\bin\Debug\ZoomPractice.exe.config
+D:\ZoomPractice\ZoomPractice\bin\Debug\ZoomPractice.exe
+D:\ZoomPractice\ZoomPractice\bin\Debug\ZoomPractice.pdb
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.csprojResolveAssemblyReference.cache
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.Form1.resources
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.Properties.Resources.resources
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.csproj.GenerateResource.Cache
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.csproj.CoreCompileInputs.cache
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.exe
+D:\ZoomPractice\ZoomPractice\obj\Debug\ZoomPractice.pdb
+D:\ZoomPractice\ZoomPractice\bin\Debug\WindowsInput.dll
+D:\ZoomPractice\ZoomPractice\bin\Debug\WindowsInput.xml
